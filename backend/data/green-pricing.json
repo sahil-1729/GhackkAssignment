@@ -1,0 +1,19 @@
+{
+  "plans": [
+    {
+      "name": "Basic Green",
+      "price": "$12",
+      "features": ["Unlimited Users", "Dedicated Account Manager"]
+    },
+    {
+      "name": "Pro Green",
+      "price": "$25",
+      "features": [
+        "Unlimited Users",
+        "Dedicated Account Manager",
+        "White-label Solutions",
+        "Custom Integrations"
+      ]
+    }
+  ]
+}

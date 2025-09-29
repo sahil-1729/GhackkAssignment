@@ -1,0 +1,20 @@
+.pricing-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.plans {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.plan {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  min-width: 220px;
+  background: #f9f9f9;
+}
+.plan h2 {
+  margin-top: 0;
+}

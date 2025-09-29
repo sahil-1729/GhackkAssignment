@@ -1,0 +1,19 @@
+{
+  "plans": [
+    {
+      "name": "Basic Blue",
+      "price": "$10",
+      "features": ["API Access", "Advanced Analytics Dashboard"]
+    },
+    {
+      "name": "Pro Blue",
+      "price": "$20",
+      "features": [
+        "API Access",
+        "Advanced Analytics Dashboard",
+        "Priority Email Support",
+        "Team Collaboration Tools"
+      ]
+    }
+  ]
+}

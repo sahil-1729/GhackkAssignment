@@ -1,0 +1,6 @@
+{
+  "strategy": "percentage",
+  "percentageSplit": { "blue": 70, "green": 30 },
+  "headerKey": "X-Version",
+  "cookieName": "pricing_version"
+}
