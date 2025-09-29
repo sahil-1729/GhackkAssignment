@@ -66,7 +66,7 @@ Ghack/
 ## Configuration
 
 - Edit `backend/config/routing.json` to change routing strategies and traffic split.
-- Update `backend/data/blue-pricing.json` and `green-pricing.json` with real SaaS features and pricing.
+- Update `backend/data/blue-pricing.json` and `green-pricing.json` with pricing.
 
 ## How It Works
 
